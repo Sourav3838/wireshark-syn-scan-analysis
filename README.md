@@ -31,3 +31,11 @@ All screenshots related to the traffic capture and analysis are included in the 
 
 ## Disclaimer
 This project was conducted in a controlled lab environment for educational purposes only.
+
+## SOC Analyst Perspective
+If SYN scan traffic was detected:
+- I would analyze packet flags and scan patterns.
+- Identify whether the scan is internal or external.
+- Correlate findings with IDS or firewall alerts.
+- Escalate as reconnaissance if scans are repeated.
+
