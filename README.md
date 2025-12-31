@@ -1,13 +1,13 @@
-# wireshark-syn-scan-analysis
+ # wireshark-syn-scan-analysis
 Wireshark-based analysis of TCP SYN scan traffic generated using Nmap in a controlled lab environment.
 
 ## Overview
 This project demonstrates how TCP SYN scan activity can be identified and analyzed using Wireshark by examining network traffic patterns generated during an Nmap scan.
 
 ## Lab Setup
-Attacker: Kali Linux  
-Target: Metasploitable  
-Tool: Wireshark  
+Attacker:- Kali Linux  
+Target:- Metasploitable  
+Tool:- Wireshark  
 
 ## Procedure
 Network traffic capture was started in Wireshark before initiating the scan.  
